@@ -3,13 +3,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Early adopter for Kotlin ecosystem
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated from Babeș-Bolyai University (Distributed Systems in Internet).
 - 🌱 &nbsp; Enthusiast in Mobile and Scripting.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Kotlin | Java | Shell | Python
+- 💻 &nbsp; Kotlin | Java | Shell | Python | Software Architecture
 - 🌐 &nbsp; Android SDK | Jetpack Compose | Kotlin Multiplatform | Compose Multiplatform
 - 🛢 &nbsp; SQLite | Firebase
 - 🔧 &nbsp; Android Studio | IntelliJ | Visual Studio Code
