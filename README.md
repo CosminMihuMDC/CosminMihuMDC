@@ -1,19 +1,20 @@
+
 <h2> Hey there! I'm Cosmin. <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Early adopter for Kotlin ecosystem
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Graduated from Babeș-Bolyai University (Distributed Systems in Internet).
-- 🌱 &nbsp; Enthusiast in Mobile and Scripting.
+- 🎓 &nbsp; Graduated from <a href="https://www.ubbcluj.ro/en/" target="_blank" rel="noopener noreferrer">Babeș-Bolyai University</a>.
+- 🌱 &nbsp; Enthusiast in Mobile, Scripting and Software Architecture.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Kotlin | Java | Shell | Python | Software Architecture
-- 🌐 &nbsp; Android SDK | Jetpack Compose | Kotlin Multiplatform | Compose Multiplatform
+- 🖥 &nbsp; Kotlin | Java | Shell | Python
+- ⚙️ &nbsp; Android SDK | Jetpack Compose | Kotlin Multiplatform | Compose Multiplatform
 - 🛢 &nbsp; SQLite | Firebase
 - 🔧 &nbsp; Android Studio | IntelliJ | Visual Studio Code
-- 🖥 &nbsp; Photoshop | Figma
+- 🖼️ &nbsp; Photoshop | Figma
 
 <h3> 🤝🏻 Connect with Me </h3>
 
